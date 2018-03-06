@@ -44,7 +44,7 @@ void main() {
 
 void print_statistics(unsigned char * data){
   printf("Median  = %.1f\n", find_median(data, SIZE));
-  printf("Mean    = %f\n", find_mean(data, SIZE));
+  printf("Mean    = %.3f\n", find_mean(data, SIZE));
   printf("Maximum = %d\n", find_maximum(data, SIZE));
   printf("Minimum = %d\n", find_minimum(data, SIZE));
 }
