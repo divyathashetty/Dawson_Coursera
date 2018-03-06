@@ -14,7 +14,7 @@
  * Implements various rudimentary functions for exploring numerical data
  *
  * @author Carl Dawson
- * @date 23 February 2018
+ * @date 6 March 2018
  *
  */
 
